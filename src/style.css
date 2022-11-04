@@ -1,0 +1,15 @@
+.navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navBarStart{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.navBarEnd{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
